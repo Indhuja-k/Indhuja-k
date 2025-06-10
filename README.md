@@ -1,7 +1,6 @@
 # 👋 Hello, I’m Indhuja kandhasamy!
 
-## 💻 Passionate about:
-- ⚙️ MERN stack development  
+## 💻 Passionate about: 
 - 🌐 Exploring modern web technologies and best practices  
 - 🤖 Learning about automation and AI integration  
 - 📈 Improving performance and user experience in web apps  
