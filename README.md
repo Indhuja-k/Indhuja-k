@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indhuja Kandhasamy</h1>
 <h3 align="center">💻 Web Development Learner | Building with Purpose | Designing with Simplicity</h3>
 
+
 ---
 
 ### 💻 Passionate About
@@ -60,24 +61,7 @@
 ### 📈 Profile Views
 
 <p align="left">
-  👀 <img src="https://komarev.com/ghpvc/?username=Indhuja-k&label=Profile%20views&color=0e75b6&style=flat" alt="Indhuja-k" />
-</p>
-
----
-
-### 🐍 GitHub Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Indhuja-k/Indhuja-k/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-### 🏷️ GitHub Badges
-
-<p align="left">
-  <img src="https://img.shields.io/github/followers/Indhuja-k?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Indhuja-k?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=Indhuja-k&label=Profile%20views&color=0e75b6&style=flat" alt="Indhuja-k" />
 </p>
 
 ---
@@ -98,3 +82,4 @@
 ## 💡 Interesting Tidbit
 
 - 🧠 I believe every bug is an opportunity to learn something new and grow as a developer.
+
