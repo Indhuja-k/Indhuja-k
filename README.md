@@ -6,14 +6,14 @@
 ### 💻 Passionate About
 
 - 🌐 Exploring modern web technologies and best practices  
-- 🤖 Learning about automation and AI integration  
-- 📈 Improving performance and user experience in web apps  
+- 🤖 Diving into smart solutions with AI and automation tools
+- 🧩 Growing step-by-step as a web developer through hands-on practice 
 
 ---
 
 ### 🌱 Currently Learning
 
-- 💻 Building dynamic web apps with React, Node.js, and MongoDB  
+- 🔐 Learning the basics of authentication and secure web practices
 - 🛠️ Enhancing backend APIs and database management  
 - 🎓 Expanding my tech knowledge through NPTEL certification courses  
 
@@ -25,9 +25,12 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -80,25 +83,26 @@
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/Indhuja_Kandhasamy/" target="_blank">
+  <a href="https://leetcode.com/Indhuja_Kandhasamy/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 
   <!-- GeeksforGeeks -->
-  <a href="https://https://www.geeksforgeeks.org/user/indhuja_k/" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/indhuja_k/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
   </a>
 
   <!-- HackerRank -->
-  <a href="https://www.hackerrank.com/profile/indhuja_516" target="_blank">
+  <a href="https://www.hackerrank.com/indhuja_516" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
 
   <!-- CodeChef -->
-  <a href="https://https://www.codechef.com/users/indhuja_k" target="_blank">
+  <a href="https://www.codechef.com/users/indhuja_k" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
- <!-- Instagram -->
+
+  <!-- Instagram -->
   <a href="https://www.instagram.com/_.indhuxy._/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
