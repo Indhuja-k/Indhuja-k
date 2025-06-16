@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indhuja Kandhasamy</h1>
 <h3 align="center">💻 Web Development Learner | Building with Purpose | Designing with Simplicity</h3>
 
-
 ---
 
 ### 💻 Passionate About
@@ -66,14 +65,42 @@
 
 ---
 
-### 📬 Get in Touch
+### 📬 Connect with Me
 
-<p>
-  <a href="mailto:indhujakandhasamy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="left">
+
+  <!-- Gmail -->
+  <a href="mailto:indhujakandhasamy@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/indhuja-kandhasamy-39446128b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/indhuja-kandhasamy-39446128b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/Indhuja_Kandhasamy/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://https://www.geeksforgeeks.org/user/indhuja_k/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/indhuja_516" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://https://www.codechef.com/users/indhuja_k" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+ <!-- Instagram -->
+  <a href="https://www.instagram.com/_.indhuxy._/?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -82,4 +109,3 @@
 ## 💡 Interesting Tidbit
 
 - 🧠 I believe every bug is an opportunity to learn something new and grow as a developer.
-
