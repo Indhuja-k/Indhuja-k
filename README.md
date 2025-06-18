@@ -13,24 +13,38 @@
 
 ### 🌱 Currently Learning
 
-- 🔐 Learning the basics of authentication and secure web practices
-- 🛠️ Enhancing backend APIs and database management  
-- 🎓 Expanding my tech knowledge through NPTEL certification courses  
+- 🔐 Authentication and secure web practices
+- 🛠 Backend APIs and database management  
+- 🎓 NPTEL certification courses  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠 Tech Stack
 
+#### 👩‍💻 Programming Languages  
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+#### 📦 Frameworks & Libraries  
+<p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+#### 🛢 Databases  
+<p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+#### 🔧 Tools & Platforms  
+<p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VisualStudioCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
@@ -52,10 +66,12 @@
 
 ---
 
-### 🔥 Weekly GitHub Streak
+### 🔥 GitHub Streak & Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indhuja-k&theme=radical&hide_border=true&mode=weekly" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indhuja-k&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-contribution-graph.vercel.app/api?username=Indhuja-k&theme=dracula&area=true&hide_border=true" />
 </p>
 
 ---
@@ -72,44 +88,40 @@
 
 <p align="left">
 
-  <!-- Gmail -->
   <a href="mailto:indhujakandhasamy@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/indhuja-kandhasamy-39446128b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <!-- LeetCode -->
   <a href="https://leetcode.com/Indhuja_Kandhasamy/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 
-  <!-- GeeksforGeeks -->
   <a href="https://auth.geeksforgeeks.org/user/indhuja_k/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 
-  <!-- HackerRank -->
   <a href="https://www.hackerrank.com/indhuja_516" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
 
-  <!-- CodeChef -->
   <a href="https://www.codechef.com/users/indhuja_k" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/_.indhuxy._/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/.indhuxy./?hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+
 </p>
 
 ---
 
 ## 💡 Interesting Tidbit
 
-- 🧠 I believe every bug is an opportunity to learn something new and grow as a developer.
+🧠 I believe every bug is an opportunity to learn something new and grow as a developer.
+
+---
