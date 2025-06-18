@@ -66,11 +66,17 @@
 
 ---
 
-### 🔥 GitHub Streak & Contribution Graph
+### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indhuja-k&theme=radical&hide_border=true" />
-  <br />
+</p>
+
+---
+
+### 📊 Contribution Graph
+
+<p align="center">
   <img src="https://github-contribution-graph.vercel.app/api?username=Indhuja-k&theme=dracula&area=true&hide_border=true" />
 </p>
 
