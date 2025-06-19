@@ -52,8 +52,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indhuja-k&theme=gruvbox&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhuja-k&theme=gruvbox&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Indhuja-k&show_icons=true&hide_border=true&bg_color=000000&title_color=f06292&text_color=cfcfcf&icon_color=f06292" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhuja-k&layout=compact&hide_border=true&bg_color=000000&title_color=f06292&text_color=cfcfcf" />
 </p>
 
 ---
@@ -66,18 +66,10 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Indhuja-k&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.vercel.app/api?username=Indhuja-k&theme=dracula&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indhuja-k&area=true&hide_border=true&custom_title=Indhuja%20Kandhasamy's%20Contribution%20Graph&bg_color=000000&color=cfcfcf&line=f06292&point=cfcfcf" />
 </p>
 
 ---
