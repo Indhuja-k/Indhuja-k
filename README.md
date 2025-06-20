@@ -49,6 +49,8 @@
 
 ---
 
+## 📊 GitHub stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Indhuja-k&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=f06292&text_color=cfcfcf&icon_color=f06292" />
  
