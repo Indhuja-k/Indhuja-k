@@ -49,12 +49,29 @@
 
 ---
 
-## 📊 GitHub stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Indhuja-k&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=f06292&text_color=cfcfcf&icon_color=f06292" />
- 
+</p>
 
+---
+
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Indhuja-k&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+
+---
+
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhuja-k&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
@@ -110,7 +127,6 @@
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
 
-
 </p>
 
 ---
@@ -118,5 +134,3 @@
 ## 💡 Interesting Tidbit
 
 🧠 I believe every bug is an opportunity to learn something new and grow as a developer.
-
----
