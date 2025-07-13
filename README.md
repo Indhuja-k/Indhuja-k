@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Indhuja-k/Indhuja-k/blob/main/Indhuja-Banner-Img.png?raw=true" alt="Indhuja Kandhasamy Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=Hi+I'm+Indhuja+Kandhasamy;Web+Development+Learner;Passionate+About+Tech+%26+Design" />
