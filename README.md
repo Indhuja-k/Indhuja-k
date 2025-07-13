@@ -1,22 +1,34 @@
-<h1 align="center">Hi 👋, I'm Indhuja Kandhasamy</h1>
-<h3 align="center">💻 Web Development Learner | Building with Purpose | Designing with Simplicity</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=28&duration=3000&pause=500&color=000000&center=true&vCenter=true&width=600&lines=Hi+I'm+Indhuja+Kandhasamy;Web+Development+Learner;Passionate+About+Tech+%26+Design" />
+</p>
 
-### 💻 Passionate About
+## 👩‍💻 About Me
 
-- 🌐 Exploring modern web technologies and best practices  
-- 🤖 Diving into smart solutions with AI and automation tools
-- 🧩 Growing step-by-step as a web developer through hands-on practice 
+<table>
+  <tr>
+    <td width="70%">
+      <ul>
+        <li>🎓 Computer Science and Business Systems student @ MKCE</li>
+        <li>🚀 Currently exploring full-stack web development projects</li>
+        <li>🔨 Building personal projects and contributing to collaborative teams</li>
+        <li>📖 Currently learning: Django, React.js, MongoDB, Backend APIs</li>
+        <li>🤝 Open to frontend and smart tech collaborations</li>
+        <li>🎨 Outside Tech: Sketching, video editing, learning new skills</li>
+        <li>📚 Committed to continuous learning through online courses, hackathons, and practical projects</li>
+      </ul>
+    </td>
+    <td width="30%">
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlwOXc5OGxhODdlYzF4eWszMG1ianB4NWt2aHl3OGNkZXdvNDF0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kBa3lyXcK5pcOJDUkW/giphy.gif" width="300px" />
+    </td>
+  </tr>
+</table>
 
----
+#### Random Dev Quote
 
-### 🌱 Currently Learning
-
-- 🔐 Authentication and secure web practices
-- 🛠 Backend APIs and database management  
-- 🎓 NPTEL certification courses  
-
+> “Programs must be written for people to read, and only incidentally for machines to execute.”  
+> — Harold Abelson
+> 
 ---
 
 ## 🌐 My Web World
@@ -123,38 +135,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Indhuja-k&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=f06292&text_color=cfcfcf&icon_color=f06292" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Indhuja-k&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhuja-k&layout=compact&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🏅 Achievement Board
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Indhuja-k&theme=onestar&no-frame=true&margin-w=10" />
-</p>
-
----
-
-### 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indhuja-k&area=true&hide_border=true&custom_title=Indhuja%20Kandhasamy's%20Contribution%20Graph&bg_color=000000&color=cfcfcf&line=f06292&point=cfcfcf" />
-</p>
-
----
-
 ### 🌐 Social Links
 
 <p align="left">
@@ -179,6 +159,36 @@
 
 ---
 
-## 💡 Interesting Tidbit
+## 📊 GitHub Stats
 
-🧠 I believe every bug is an opportunity to learn something new and grow as a developer.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Indhuja-k&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=f06292&text_color=cfcfcf&icon_color=f06292" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Indhuja-k&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indhuja-k&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 📊 Commit Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Indhuja-k&area=true&hide_border=true&custom_title=Indhuja%20Kandhasamy's%20Contribution%20Graph&bg_color=000000&color=cfcfcf&line=f06292&point=cfcfcf" />
+</p>
+
+---
+
+### 🏅 Achievement Board
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Indhuja-k&theme=onestar&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+
+
